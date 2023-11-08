@@ -1,0 +1,13 @@
+/* === Start Css Code  ===*/
+.cbs-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-area{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 50px;
+    margin-left: 20px;;
+}
+/**=== End main shortcode style ===*/
